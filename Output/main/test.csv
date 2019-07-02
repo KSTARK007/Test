@@ -1,0 +1,11 @@
+ lru touch , pagecache_get_page,0xffff9adc11028000
+ lru touch , pagecache_get_page,0xffff9adc11128000
+ lru touch , pagecache_get_page,0xffff9adc11228000
+ lru touch , pagecache_get_page,0xffff9adc10c28000
+ lru touch , pagecache_get_page,0xffff9adc10d28000
+ lru touch , pagecache_get_page,0xffff9adc10f28000
+ lru touch , pagecache_get_page,0xffff9adc10928000
+ lru touch , pagecache_get_page,0xffff9adc10428000
+ lru touch , pagecache_get_page,0xffff9adc10528000
+ lru add , pagecache_get_page,0xffff9adc55058000
+ lru remove , page_cache_tree_delete,0xffff9adc35280000

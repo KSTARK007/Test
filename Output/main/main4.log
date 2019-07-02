@@ -1,0 +1,2 @@
+[ 2142.827800] linux_mmu: function = pagecache_get_page, tid = 2793, pid=2793, data = lru touch : addr=0xffff9adc5df5f000
+[ 2142.832780] linux_mmu: function = pagecache_get_page, tid = 1817, pid=1817, data = lru touch : addr=0xffff9adc504e7000

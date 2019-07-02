@@ -1,0 +1,1 @@
+[ 4819.330879] linux_mmu: function = pagecache_get_page, tid = 3338, pid=3338, data = lru add : addr=0xffff9adbd8d8a000

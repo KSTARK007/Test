@@ -1,0 +1,11 @@
+[ 2166.830576] linux_mmu: function = pagecache_get_page, tid = 2801, pid=2801, data = lru touch : addr=0xffff9adc11028000
+[ 2166.992208] linux_mmu: function = pagecache_get_page, tid = 2801, pid=2801, data = lru touch : addr=0xffff9adc11128000
+[ 2167.047110] linux_mmu: function = pagecache_get_page, tid = 2801, pid=2801, data = lru touch : addr=0xffff9adc11228000
+[ 2167.141194] linux_mmu: function = pagecache_get_page, tid = 2801, pid=2801, data = lru touch : addr=0xffff9adc10c28000
+[ 2167.197058] linux_mmu: function = pagecache_get_page, tid = 2801, pid=2801, data = lru touch : addr=0xffff9adc10d28000
+[ 2167.292341] linux_mmu: function = pagecache_get_page, tid = 2801, pid=2801, data = lru touch : addr=0xffff9adc10f28000
+[ 2167.386875] linux_mmu: function = pagecache_get_page, tid = 2801, pid=2801, data = lru touch : addr=0xffff9adc10928000
+[ 2167.696268] linux_mmu: function = pagecache_get_page, tid = 2801, pid=2801, data = lru touch : addr=0xffff9adc10428000
+[ 2167.734389] linux_mmu: function = pagecache_get_page, tid = 2801, pid=2801, data = lru touch : addr=0xffff9adc10528000
+[ 2227.728002] linux_mmu: function = pagecache_get_page, tid = 1976, pid=1976, data = lru add : addr=0xffff9adc55058000
+[ 2406.469911] linux_mmu: function = page_cache_tree_delete, tid = 2816, pid=2816, data = lru remove : addr=0xffff9adc35280000
